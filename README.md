@@ -13,3 +13,5 @@ These Notebooks contain,
    - Optimum cluster model evaluation using silhouette scores
    - Cluster visualization on feature pairs
 2) Dimensionality reduction & evaluation using PCA
+   - Feature similarity from Principal components
+   - Clustering (using K-Means) the data with reduced dimensions
